@@ -71,12 +71,12 @@
         <item quantity="other">დარჩა %d წუთი</item>
     </plurals>
     <plurals name="reviewer_window_title_hours_new">
-        <item quantity="one">%1$d hour %2$d left</item>
-        <item quantity="other">%1$d hours %2$d left</item>
+        <item quantity="one">დარჩა %1$d საათი %2$d</item>
+        <item quantity="other">დარჩა %1$d საათი %2$d</item>
     </plurals>
     <plurals name="reviewer_window_title_days_new">
-        <item quantity="one">%1$d day %2$d left</item>
-        <item quantity="other">%1$d days %2$d left</item>
+        <item quantity="one">დარჩა %1$d დღე %2$d</item>
+        <item quantity="other">დარჩა %1$d დღე %2$d</item>
     </plurals>
     <string name="no_cards_placeholder_title">კოლექცია ცარიელია</string>
     <string name="no_cards_placeholder_description">ატვირთეთ ბარათები\n+ნიშნით</string>
@@ -109,10 +109,10 @@
     <string name="menu_dismiss_note">დამალვა / წაშლა</string>
     <string name="menu_bury_card">ბარათის დამალვა</string>
     <string name="menu_bury_note">ჩანიშვნის დამალვა</string>
-    <string name="menu_suspend_card">ბარათის შეჩერება</string>
-    <string name="menu_suspend_note">ჩანიშვნის შეჩერება</string>
+    <string name="menu_suspend_card">ბარათის გამოტოვება</string>
+    <string name="menu_suspend_note">შენიშვნის გამოტოვება</string>
     <string name="menu_bury">დამალვა</string>
-    <string name="menu_suspend">შეჩერება</string>
+    <string name="menu_suspend">გამოტოვება</string>
     <string name="menu_delete_note">შენიშვნის წაშლა</string>
     <string name="menu_flag">დროშა</string>
     <string name="menu_flag_card">დროშის მიმაგრება</string>
